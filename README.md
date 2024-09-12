@@ -11,14 +11,10 @@ Desafio da Rocketseat trilha FullStack para recriar o layout se um projeto codad
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e218a690-176f-4838-9d12-0872fe96a2e0>
+  <img src=".github/Captura de tela 2024-09-11 225618.png" width="100%">
 </p>
 
 <br>
-
-<p align="center">
-  <img src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
